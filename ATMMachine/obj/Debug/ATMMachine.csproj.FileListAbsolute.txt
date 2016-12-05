@@ -1,0 +1,6 @@
+E:\Play Pen\New Task\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe.config
+E:\Play Pen\New Task\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe
+E:\Play Pen\New Task\ATMMachine\ATMMachine\bin\Debug\ATMMachine.pdb
+E:\Play Pen\New Task\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csprojResolveAssemblyReference.cache
+E:\Play Pen\New Task\ATMMachine\ATMMachine\obj\Debug\ATMMachine.exe
+E:\Play Pen\New Task\ATMMachine\ATMMachine\obj\Debug\ATMMachine.pdb
